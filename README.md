@@ -9,10 +9,12 @@ menghemat biaya sebaik mungkin, selain itu perawatan dari aplikasi berbasis lara
 ini bisa dikatakan mudah dalam perawaran nya serta menyediakan pengalaman kerja dengan
 syntax yang ekspresif dan jelas sehingga dapat menghemat waktu developer dalam 
 mengembangkan apikasinya.
+
 MVC adalah sebuah pendekatan perangkat lunak yang memisahkan aplikasi logika dari presentasi. 
 MVC memisahkan aplikasi berdasarkan komponen- komponen aplikasi, seperti : manipulasi data, controller, dan user interface.
 Bundles, yaitu sebuah fitur dengan sistem pengemasan modular dan tersedia beragam di aplikasi.
 Eloquent ORM, merupakan penerapan PHP lanjutan menyediakan metode internal dari pola “active record” yang menagatasi masalah pada hubungan objek database.
+
 Application Logic, merupakan bagian dari aplikasi, menggunakan controller atau bagian Route.
 Reverse Routing, mendefinisikan relasi atau hubungan antara Link dan Route.
 Restful controllers, memisahkan logika dalam melayani HTTP GET and POST.
